@@ -1,0 +1,6 @@
+# FW_filename			FW_version		module_ID(1:SEMCO,2:LG-IT)		checksum_boot		checksum_prog		BB_revision_mapping (index from 1=A, 2=B, 4=C)
+RumbaSA_SEMCO_7698.bin		7698			3					0x5763			0xa161			0xFFFFFFFF
+RumbaSA_LGIT.bin		2733			2					0x7f46			0x8c91			0xFFFFFFFF
+RumbaSA_SEMCO_4846.bin		4846			1					0xB67F			0x3319			0x007FBC00
+RumbaSA_SEMCO_4752.bin		4752			1					0xB67F			0x60A3			0x000002C0
+RumbaSA_SEMCO_4751.bin		4751			1					0xB67F			0xEF95			0x0000003F
